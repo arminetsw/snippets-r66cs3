@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arminetsw.github.io/snippets-r66cs3/sitemap.xml
